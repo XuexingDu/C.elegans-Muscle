@@ -1,6 +1,6 @@
-# Hodgkin-Huxley Based Model for C.elegans Body Wall Muscle Cell 
+# Biophysical Modeling and Experimental Analysis of the Dynamics of C. elegans Body-Wall Muscle Cells 
 
-Code for paper [**Hodgkin-Huxley Based Model for C.elegans Body Wall Muscle Cell **](https://www.biorxiv.org/content/10.1101/2024.07.15.603498v1).
+Code for paper [**Biophysical Modeling and Experimental Analysis of the Dynamics of C. elegans Body-Wall Muscle Cells **](https://www.biorxiv.org/content/10.1101/2024.07.15.603498v1).
 
 ![paper-summary](./PCB-new.png)
 
@@ -8,7 +8,7 @@ Code for paper [**Hodgkin-Huxley Based Model for C.elegans Body Wall Muscle Cell
 
 ### Python
 
-- Neuronal dynamics simulation: numpy, brian2
+- Neuronal dynamics simulation: numpy, brainpy
 - Neuron and network parameter estimation: numpy, sbi, matplotlib, scipy, sci-kit learn
 
 
