@@ -46,24 +46,6 @@ jupyter notebook
 pip install sbi
 ```
 
-Install additional packages for running body-wall muscle cell model:
-```bash
-pip install --upgrade "jax[cpu]"
-pip install -U brainpy
-pip install brainpylib
-pip install -U "ray[default]"
 
-## Reproduce figures in the maintext
 
-1. Figure 2:
-    ```bash
-    ./code4paper/pm_scan_kl_HH10.py
-    ```
-2. Figure 3:
-    ```bash
-    ./code4paper/pm_scan_kl_HH10.py
-    ```
-3. Figure 4:
-    ```bash
-    ./code4paper/HH100_recon_pnas.py
-    ```
+
