@@ -2,7 +2,7 @@
 
 Code for paper [**Hodgkin-Huxley Based Model for C.elegans Body Wall Muscle Cell **](https://www.biorxiv.org/content/10.1101/2024.07.15.603498v1).
 
-![paper-summary](./PCB-news.png)
+![paper-summary](PCB-news.png)
 
 ## Requirements
 
